@@ -8,7 +8,7 @@ namespace session3.Models
 {
     internal class Department
     {
-        public int DepId { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
     }
 }

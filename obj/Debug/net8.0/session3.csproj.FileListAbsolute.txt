@@ -129,3 +129,4 @@ C:\Users\saliq\Desktop\asp\EF\session3\obj\Debug\net8.0\refint\session3.dll
 C:\Users\saliq\Desktop\asp\EF\session3\obj\Debug\net8.0\session3.pdb
 C:\Users\saliq\Desktop\asp\EF\session3\obj\Debug\net8.0\session3.genruntimeconfig.cache
 C:\Users\saliq\Desktop\asp\EF\session3\obj\Debug\net8.0\ref\session3.dll
+C:\Users\saliq\Desktop\asp\EF\session3\obj\Debug\net8.0\session3.sourcelink.json

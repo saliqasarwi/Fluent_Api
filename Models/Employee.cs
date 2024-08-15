@@ -15,5 +15,6 @@ namespace session3.Models
         public int Age { get; set; }
 
         public double Salary { get; set; }
+        public DateTime createdAt { get; set; }
     }
 }
